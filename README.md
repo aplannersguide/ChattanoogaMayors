@@ -8,23 +8,23 @@ To make changes fork the project, make changes to the Chattanooga Mayors.csv fil
 These are the values currently accepted for the different columns in this spreadsheet. You can request additional values or data columns by submitting an issue. 
 
 *Gender*
-+Male
-+Female
++ Male
++ Female
 
 *Facial Hair*
-+None
++ None
 Use this list to specify facial hair type. http://en.wikipedia.org/wiki/List_of_facial_hairstyles
 
 *Glasses*
-+Yes
-+No
++ Yes
++ No
 
 *Neck Decorations* Not to be comfused with facial hair. 
-+None
-+Necktie
-+ascot tie
-+bow tie
-+bolo tie
-+zipper tie
-+cravat
-+clip-on tie
++ None
++ Necktie
++ ascot tie
++ bow tie
++ bolo tie
++ zipper tie
++ cravat
++ clip-on tie
