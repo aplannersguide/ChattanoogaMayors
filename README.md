@@ -1,5 +1,5 @@
 # Chattanooga Mayors
-Welcome to the crowdsourced open data project about past City of Chattanooga Mayor's. The data driving this project are the photos in the Mayor's Conference Room in city hall. 
+Welcome to the crowdsourced open data project about past City of Chattanooga Mayors. The data driving this project are the photos in the Mayor's Conference Room in city hall. 
 
 ## To Submit 
 To make changes fork the project, make changes to the Chattanooga Mayors.csv file and then submit a pull request. 
@@ -7,19 +7,25 @@ To make changes fork the project, make changes to the Chattanooga Mayors.csv fil
 ##Data Dictionary
 These are the values currently accepted for the different columns in this spreadsheet. You can request additional values or data columns by submitting an issue. 
 
-*Gender*
+**Dates in Office** - The dates in office can be found on the pictures listed in this repository.
+
+**Name** - The name can be found on the pictures listed in this repository.
+
+**Age** - The age when the mayor first entered office
+
+**Gender**
 + Male
 + Female
 
-*Facial Hair*
+**Facial Hair**
 + None
 Use this list to specify facial hair type. http://en.wikipedia.org/wiki/List_of_facial_hairstyles
 
-*Glasses*
+**Glasses**
 + Yes
 + No
 
-*Neck Decorations* Not to be comfused with facial hair. 
+**Neck Decorations** - Not to be confused with facial hair. 
 + None
 + Necktie
 + ascot tie
